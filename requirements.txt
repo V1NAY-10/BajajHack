@@ -1,0 +1,9 @@
+flask
+pymongo
+uuid
+langchain-community
+langchain-huggingface
+chromadb
+sentence-transformers
+together
+python-dotenv
